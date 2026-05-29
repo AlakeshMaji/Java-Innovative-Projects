@@ -1,50 +1,88 @@
-No Old Data
+No Previous Data Found.
 
-1.Add  2.Display  3.Report
-4.Highest  5.Save  6.Exit
-Choice: 1
+===== Personal Expense Tracker =====
+1. Add Expense
+2. Display Expenses
+3. Monthly Report
+4. Highest Expense Category
+5. Save Expenses
+6. Exit
+Enter Choice: 1
 
-Amount: 500
-Category: Food
-Date (YYYY-MM-DD): 2026-05-28
-Expense Added!
+Enter Amount: 500
+Enter Category: Food
+Enter Date (YYYY-MM-DD): 2026-05-29
+Expense Added Successfully!
 
-1.Add  2.Display  3.Report
-4.Highest  5.Save  6.Exit
-Choice: 1
+===== Personal Expense Tracker =====
+1. Add Expense
+2. Display Expenses
+3. Monthly Report
+4. Highest Expense Category
+5. Save Expenses
+6. Exit
+Enter Choice: 1
 
-Amount: 1200
-Category: Travel
-Date (YYYY-MM-DD): 2026-05-15
-Expense Added!
+Enter Amount: 1200
+Enter Category: Travel
+Enter Date (YYYY-MM-DD): 2026-05-15
+Expense Added Successfully!
 
-1.Add  2.Display  3.Report
-4.Highest  5.Save  6.Exit
-Choice: 2
+===== Personal Expense Tracker =====
+1. Add Expense
+2. Display Expenses
+3. Monthly Report
+4. Highest Expense Category
+5. Save Expenses
+6. Exit
+Enter Choice: 2
 
-500.0 | Food | 2026-05-28
-1200.0 | Travel | 2026-05-15
+--- Expense Records ---
+Amount: 500.0, Category: Food, Date: 2026-05-29
+Amount: 1200.0, Category: Travel, Date: 2026-05-15
 
-1.Add  2.Display  3.Report
-4.Highest  5.Save  6.Exit
-Choice: 3
+===== Personal Expense Tracker =====
+1. Add Expense
+2. Display Expenses
+3. Monthly Report
+4. Highest Expense Category
+5. Save Expenses
+6. Exit
+Enter Choice: 3
 
-Enter Month: 5
-Total Expense = 1700.0
+Enter Month (1-12): 5
+Total Expense for Month 5: 1700.0
 
-1.Add  2.Display  3.Report
-4.Highest  5.Save  6.Exit
-Choice: 4
+===== Personal Expense Tracker =====
+1. Add Expense
+2. Display Expenses
+3. Monthly Report
+4. Highest Expense Category
+5. Save Expenses
+6. Exit
+Enter Choice: 4
 
-Highest Category: Travel = 1200.0
+Highest Expense Category: Travel = 1200.0
 
-1.Add  2.Display  3.Report
-4.Highest  5.Save  6.Exit
-Choice: 5
-Saved!
+===== Personal Expense Tracker =====
+1. Add Expense
+2. Display Expenses
+3. Monthly Report
+4. Highest Expense Category
+5. Save Expenses
+6. Exit
+Enter Choice: 5
 
-1.Add  2.Display  3.Report
-4.Highest  5.Save  6.Exit
-Choice: 6
+Expenses Saved Successfully!
 
-Exiting...
+===== Personal Expense Tracker =====
+1. Add Expense
+2. Display Expenses
+3. Monthly Report
+4. Highest Expense Category
+5. Save Expenses
+6. Exit
+Enter Choice: 6
+
+Expenses Saved Successfully!
+Exiting Application...
